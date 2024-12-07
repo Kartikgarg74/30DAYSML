@@ -1,4 +1,4 @@
-##30DaysML Challenge: A Comprehensive Learning Repository##
+****30DaysML Challenge: A Comprehensive Learning Repository****
 
 Welcome to the **30DaysML Challenge** repository, where I document a structured 30-day journey in Machine Learning (ML). This itinerary is designed to provide a balanced mix of theory, coding, and practical applications, making it ideal for beginners and those seeking to solidify their ML knowledge.
 
