@@ -104,4 +104,4 @@ For full details, see the `neural_network_basics.py` file in this repository.
   - [Building Neural Networks in TensorFlow](https://www.youtube.com/watch?v=tPYj3fFJGjk)
 
 
-If you find this repository useful, feel free to give it a star ⭐ and share your feedback. For questions or collaborations, reach out to me on [LinkedIn]([https://www.linkedin.com/in/kartik-garg-99a754252/])!
+If you find this repository useful, feel free to give it a star ⭐ and share your feedback and read the complete blog on my [Medium account](https://medium.com/@gargkartik74). For questions or collaborations, reach out to me on [LinkedIn](https://www.linkedin.com/in/kartik-garg-99a754252/)! 
