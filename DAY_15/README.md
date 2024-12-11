@@ -11,7 +11,6 @@ Welcome to the **Neural Networks Basics** repository! This repository is part of
   - [Installation](#installation)
 - [Code Walkthrough](#code-walkthrough)
 - [Resources](#resources)
-- [License](#license)
 
 ## Introduction
 
@@ -104,10 +103,5 @@ For full details, see the `neural_network_basics.py` file in this repository.
   - [Neural Networks - Simplified](https://www.youtube.com/watch?v=aircAruvnKk)
   - [Building Neural Networks in TensorFlow](https://www.youtube.com/watch?v=tPYj3fFJGjk)
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-If you find this repository useful, feel free to give it a star ⭐ and share your feedback. For questions or collaborations, reach out to me on [LinkedIn]((https://www.linkedin.com/in/kartik-garg-99a754252/))!
+If you find this repository useful, feel free to give it a star ⭐ and share your feedback. For questions or collaborations, reach out to me on [LinkedIn]([https://www.linkedin.com/in/kartik-garg-99a754252/])!
