@@ -93,7 +93,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## 🌟 **Connect and Share**
 Loved this project? Share your learnings and tag us:
-- Twitter: [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourLinkedInProfile)
+- Medium: [@yMedium Handle](https://medium.com/@gargkartik74)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kartik-garg-99a754252/)
 
 Happy Learning! 🎉
