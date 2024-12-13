@@ -1,24 +1,22 @@
-# Generative Models
+# Recurrent Neural Networks (RNNs)
 
-Welcome to the **Day 17** repository of our 30-Day Machine Learning series! In this repository, you'll find all the resources, code snippets, and materials needed to understand and implement **Generative Models**, with a focus on **Generative Adversarial Networks (GANs)**.
+Welcome to **Day 17** of our 30-Day Machine Learning series! In this repository, you will find all the resources, code snippets, and materials you need to understand and implement **Recurrent Neural Networks (RNNs)** for sequence prediction and time-series forecasting tasks.
 
 ---
 
 ## 📋 **Overview**
-Generative models are a class of machine learning models designed to generate new data samples from an underlying distribution. In this session, we dive into **Generative Adversarial Networks (GANs)**, a powerful type of generative model, and cover:
+Recurrent Neural Networks (RNNs) are a class of neural networks designed for processing sequential data, where each output depends on the previous computations. In today's session, we cover:
 
-1. **What are Generative Models?**
-   - Introduction to the concept and types of generative models.
-2. **What are GANs?**
-   - Structure and components of GANs: Generator and Discriminator.
-3. **How GANs Work:**
-   - The adversarial process: How the generator and discriminator work together.
-4. **Building a GAN:**
-   - Step-by-step implementation using TensorFlow/Keras.
-5. **Training GANs:**
-   - Common challenges and strategies for training GANs, including loss functions and optimization.
-6. **Applications of GANs:**
-   - Image generation, style transfer, and more.
+1. **What is an RNN?**
+   - The basic structure of RNNs and how they handle sequential data.
+2. **How RNNs Work:**
+   - The role of hidden states, backpropagation through time, and the vanishing gradient problem.
+3. **Types of RNNs:**
+   - Basic RNNs, Long Short-Term Memory (LSTM), and Gated Recurrent Units (GRU).
+4. **Building an RNN Model:**
+   - Step-by-step implementation of RNN models using TensorFlow/Keras.
+5. **Applications:**
+   - Time-series forecasting, language modeling, sequence-to-sequence tasks.
 
 ---
 
@@ -26,7 +24,6 @@ Generative models are a class of machine learning models designed to generate ne
 ```plaintext
 .
 ├── datasets/                # Placeholder for dataset links or scripts to fetch datasets
-├── notebooks/               # Jupyter notebooks with step-by-step GAN implementation
-├── src/                     # Python scripts for GAN model building and training
-├── visualizations/          # Tools and scripts for visualizing generated images
+├── notebooks/               # Jupyter notebooks with step-by-step implementations
+├── src/                     # Python scripts for building and training RNN models
 ├── README.md                # This file
