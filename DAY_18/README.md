@@ -1,4 +1,4 @@
-Day 18: Generative Adversarial Networks (GANs) — Creating New Data 🌟
+## Day 18: Generative Adversarial Networks (GANs) — Creating New Data 🌟
 Welcome to the Day 18 repository of the 30 Days of Deep Learning series! 🎉 This repository contains the Jupyter Notebook and resources for understanding and implementing Generative Adversarial Networks (GANs).
 
 📘 About This Notebook
