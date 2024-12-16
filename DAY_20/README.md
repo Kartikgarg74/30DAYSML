@@ -9,7 +9,7 @@ This repository contains the practical implementation of **Semi-Supervised Learn
 
 ## Blog Link
 For a detailed explanation of Semi-Supervised Learning concepts, methodologies, and applications, read the full blog here:  
-👉 [Semi-Supervised Learning Explained](<your-blog-link>)
+👉 [Semi-Supervised Learning Explained](https://medium.com/@gargkartik74/day-20-semi-supervised-learning-a285bbd51da2)
 
 ## How to Run
 1. Clone this repository:
