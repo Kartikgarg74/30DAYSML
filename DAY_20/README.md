@@ -1,6 +1,3 @@
-Here's a short and clear **README.md** file for your GitHub repository:
-
-```markdown
 # Semi-Supervised Learning: Code Examples
 
 This repository contains the practical implementation of **Semi-Supervised Learning (SSL)** methods, including **Pseudo-Labeling**, as discussed in my blog. The code is fully self-contained and designed to help you understand how SSL can leverage both labeled and unlabeled data to improve model performance.
@@ -35,7 +32,6 @@ Explore additional resources to deepen your understanding:
 - [Semi-Supervised Learning Literature Survey (PDF)](https://pages.cs.wisc.edu/~jerryzhu/pub/ssl_survey.pdf)
 
 Feel free to raise issues or contribute to this project. Happy learning! 🎉
-```
 
 ### Notes:
 - Replace `<your-blog-link>` with the actual link to your blog.
