@@ -1,4 +1,4 @@
-# Machine Learning Blog: Resources and Code
+# Machine Learning Blog: Recommendation System
 
 Welcome to my Machine Learning blog! This repository contains resources and code for various machine learning topics, including tutorials, datasets, and code examples. The blog is designed to help learners understand machine learning concepts and their applications.
 
