@@ -31,4 +31,4 @@ If you have suggestions for new topics, improvements, or want to contribute, fee
 This blog and the code are open source and available under the MIT License.
 
 ## Contact:
-For questions or collaboration inquiries, reach me via [your-email@example.com].
+For questions or collaboration inquiries, reach me via [gargkartik74@gmail.com].
