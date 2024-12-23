@@ -16,7 +16,7 @@ Welcome to my Machine Learning blog! This repository contains resources and code
 ## How to Use:
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/your-github-repo
+    git clone https://github.com/30DAYSML/blob/main/DAY_23
     ```
 2. Install the necessary dependencies:
     ```bash
